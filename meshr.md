@@ -45,7 +45,7 @@ Whether you're designing app backgrounds, UI elements, or creative visual effect
 
 ## Privacy Policy
 
-[View Privacy Policy](assets/meshr/privacypolicy.md)
+[View Privacy Policy](assets/meshr/privacy-policy.md)
 
 ## Support
 
