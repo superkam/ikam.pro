@@ -1,3 +1,6 @@
+# Meshr 
+<img src="assets/meshr/meshr.png" width="100" height="100" alt="Meshr App">
+
 # Privacy Policy
 
 Last updated: 2025-01-17
