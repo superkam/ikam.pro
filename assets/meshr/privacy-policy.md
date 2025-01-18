@@ -4,7 +4,7 @@ Last updated: 2025-01-17
 
 ## Introduction
 
-This Privacy Policy describes how MeshR ("we," "our," or "us") handles information when you use our application.
+This Privacy Policy describes how Meshr ("we," "our," or "us") handles information when you use our application.
 
 ## Information Collection
 
