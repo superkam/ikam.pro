@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Lyee Kam - An iOS Developer
+---
 
-You can use the [editor on GitHub](https://github.com/superkam/ikam/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<div style="display: flex; align-items: center; padding-bottom: 20px; padding-top: 20px;">
+    <img src="assets/8DF3E84E-98AD-460D-A516-DC6D9FE2D1B1.jpeg" alt="Profile Photo" style="width:50px;height:50px;border-radius:50%;object-fit:cover;vertical-align:middle;margin-right:20px;">
+    <h1>Lyee Kam</h1>
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> 
+> An iOS Developer
 
-### Markdown
+## Apps
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Meshr
+*Social Networking | Available on App Store*
 
-```markdown
-Syntax highlighted code block
+A privacy-focused social networking app that connects people based on shared interests and locations.
 
-# Header 1
-## Header 2
-### Header 3
+- Built with SwiftUI and Core Data
+- Real-time messaging using WebSocket
+- Location-based friend discovery
+- 100K+ active users
 
-- Bulleted
-- List
+[![Download on the App Store](assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/us/app/meshr/id6738008639)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Get in Touch
 
-[Link](url) and ![Image](src)
-```
+- Email: [kamice@gmail.com](mailto:kamice@gmail.com)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/superkam/ikam/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<footer>
+<p>© 2025 Lyee Kam. All rights reserved.</p>
+</footer>
