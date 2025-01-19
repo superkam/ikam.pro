@@ -1,5 +1,5 @@
 # Meshr 
-<img src="assets/meshr/meshr.png" width="100" height="100" alt="Meshr App">
+<img src="meshr.png" width="100" height="100" alt="Meshr App">
 
 # Privacy Policy
 
