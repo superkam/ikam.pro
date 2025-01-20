@@ -33,7 +33,7 @@ Whether you're designing app backgrounds, UI elements, or creative visual effect
 
 ## Contact Me
 
-- Email: your.email@example.com
+- Email: [kamice@gmail.com](mailto:kamice@gmail.com)
 
 ## Privacy Policy
 
