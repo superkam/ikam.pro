@@ -27,14 +27,6 @@ Whether you're designing app backgrounds, UI elements, or creative visual effect
 - Support for different aspect ratios
 - Export high-quality images
 
-## Screenshots
-
-<div class="screenshots">
-  <img src="assets/meshr/0x0ss-2.jpeg" alt="Screenshot 2" width="200"/>
-  <img src="assets/meshr/0x0ss-3.jpeg" alt="Screenshot 3" width="200"/>
-  <img src="assets/meshr/0x0ss-4.jpeg" alt="Screenshot 4" width="200"/>
-</div>
-
 ## Download
 
 [![Download on the App Store](assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/us/app/meshr/id6738008639)
