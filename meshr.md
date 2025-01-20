@@ -31,17 +31,13 @@ Whether you're designing app backgrounds, UI elements, or creative visual effect
 
 [![Download on the App Store](assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/us/app/meshr/id6738008639)
 
-## Contact Me
-
-- Email: [kamice@gmail.com](mailto:kamice@gmail.com)
-
 ## Privacy Policy
 
 [View Privacy Policy](assets/meshr/privacy-policy.md)
 
 ## Support
 
-If you encounter any issues while using our app, please [contact me](mailto:kamice@gmail.com) for assistance.
+If you encounter any issues while using our app, please [email me](mailto:kamice@gmail.com) for assistance.
 
 ---
 
